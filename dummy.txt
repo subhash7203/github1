@@ -1,1 +1,15 @@
-this is a dummy file
+git add test2.txt 
+git commit -m "created test2.txt"
+git push origin main
+   these are used to insert the file from vs code to git
+
+
+   git pull 
+   is used to insert the particular file or doing any modification
+
+
+   git clone "paste the link of file in the git"
+
+   then type
+   cd github1
+
